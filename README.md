@@ -1,3 +1,6 @@
+### Update
+Forked from: https://github.com/btroia/basis-data-export. Project closed down due to Intel purchasing Basis and closing down all device support, data, etc. I did receive a nice shout out on the original fork read me though. So that's a win.
+
 # Basis Data Export
 
 Utility that exports and saves your Basis B1 device's uploaded sensor data.
